@@ -1,28 +1,27 @@
-# 🦅 AlgoHawks — Public Crypto Analysis
+🦅 AlgoHawks — Public Crypto Analysis
 
-**Welcome to AlgoHawks Public Crypto Analysis!**  
-This is my personal, non-commercial exploration of cryptocurrency market behavior — a continuation of my graduate-level research project.
+Welcome to AlgoHawks Public Crypto Analysis
+This is my personal, non-commercial exploration of cryptocurrency market behavior — an extension of my graduate-level research project.
 
-The goal is to study **market structure, asset relationships, and statistical patterns** across the crypto space using transparent, reproducible methods.  
-All work is for **educational and research purposes only**.
+The objective is to investigate market structure, asset relationships, and statistical patterns across the cryptocurrency ecosystem using transparent, reproducible methods.
+All work is conducted strictly for educational and research purposes.
 
----
+📌 Project Scope
+📊 In-depth market analysis across multiple crypto sectors and timeframes
 
-## 📌 Project Scope
-- 📜 Fully documented notebooks with both analysis and code  
+📜 Fully documented Jupyter notebooks with both narrative and code
 
----
+🔍 Statistical, correlation, and network-based approaches to market structure
 
-## 🚫 Disclaimer
+📈 Continuous updates with new analyses — stay tuned for upcoming releases
 
-> **This repository is for educational and research purposes only.**  
-> Nothing here constitutes financial advice, investment recommendations, or solicitation.  
-> All opinions are my own and do not represent any organization I am affiliated with.  
-> Use of this content is entirely at your own risk.
+🚫 Disclaimer
+For educational and research purposes only.
+Nothing in this repository constitutes financial advice, investment recommendations, or solicitation.
+All opinions are my own and do not represent any organization I am affiliated with.
+Use this content entirely at your own risk.
 
----
-
-## 💬 Feedback & Collaboration
-
-I’m open to feedback, interpretations, and non-investment collaborations.  
-Feel free to explore the notebooks, share insights, or discuss methodology.
+💬 Feedback & Collaboration
+I’m open to feedback, methodological discussions, and non-investment collaborations.
+If you’d like to connect or discuss ideas, you can reach me here:
+LinkedIn — linkedin.com/in/brandon-sharp-b97793194
