@@ -9,10 +9,6 @@ All work is for **educational and research purposes only**.
 ---
 
 ## 📌 Project Scope
-
-- 📊 Multi-Horizon Correlation Mapping (14d, 30d, 60d, 90d)  
-- 🔍 Clustered heatmaps to highlight structural relationships  
-- 🗂 Integration of sector and blockchain family metadata  
 - 📜 Fully documented notebooks with both analysis and code  
 
 ---
