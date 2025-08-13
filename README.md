@@ -31,7 +31,7 @@ An open, research-first exploration of cryptocurrency market structure, relation
 ---
 
 ## 💬 How You Can Contribute
-We welcome contributions from market analysts, data engineers, and crypto enthusiasts. Here’s how you can help:
+We welcome contributions from data engineers to crypto enthusiasts. Here’s how you can help:
 
 ### 🔹 **Data Contributions**
 - **Add new cryptocurrencies** — must be present in both:
@@ -60,11 +60,6 @@ We welcome contributions from market analysts, data engineers, and crypto enthus
 - Suggest and implement new market structure metrics
 - Explore alternative clustering/grouping logic
 - Create visualizations for niche crypto sectors or themes
-
----
-
-## 🔍 Data Documentation
-Detailed format specifications and data update guidelines are in [`data/README.md`](data/README.md).
 
 ---
 
