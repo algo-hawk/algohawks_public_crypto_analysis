@@ -1,0 +1,311 @@
+symbol,coinbase_pair,start_date,end_date,days_covered,data_age_group,market_cap,market_cap_rank,market_cap_tier,categories,crypto_family,category_list,family_list,notes,consolidated_categories_list,consolidated_categories
+BTC,BTC-USD,7/20/2015 21:00,7/30/2025 1:00,3663,Legacy,2.37E+12,1,Large Cap,"Payments, Store-of-Value",Bitcoin ,"['Payments', 'Store-of-Value']",['Bitcoin'],,['Payments & Commerce'],Payments & Commerce
+ETH,ETH-USD,5/18/2016 0:00,7/30/2025 1:00,3361,Legacy,4.20E+11,2,Large Cap,"Smart Contracts, DeFi",Ethereum,"['Smart Contracts', 'DeFi']",['Ethereum'],,['DeFi'],DeFi
+XRP,XRP-USD,7/13/2023 20:00,7/30/2025 4:00,748,Established,1.85E+11,3,Large Cap,"Payments, Cross-Border",Ripple,"['Payments', 'Cross-Border']",['Ripple'],,['Payments & Commerce'],Payments & Commerce
+USDT,USDT-USD,5/4/2021 1:00,7/30/2025 3:00,1549,Established,1.64E+11,4,Large Cap,Stablecoin (Fiat-Pegged),"Multi Chain, Ethereum, Tron",['Stablecoin (Fiat-Pegged)'],"['Multi Chain', 'Ethereum', 'Tron']",,['Stablecoins'],Stablecoins
+SOL,SOL-USD,6/17/2021 16:00,7/30/2025 3:00,1504,Established,94715545981,5,Large Cap,"Smart Contracts, NFTs",Solana ,"['Smart Contracts', 'NFTs']",['Solana'],,['NFTs & Digital Collectibles'],NFTs & Digital Collectibles
+DOGE,DOGE-USD,6/3/2021 16:00,7/30/2025 1:00,1518,Established,32791962211,6,Large Cap,"Meme, Payments",Bitcoin ,"['Meme', 'Payments']",['Bitcoin'],,"['Payments & Commerce', 'Meme & Community Tokens']","Payments & Commerce, Meme & Community Tokens"
+UNI,UNI-USD,3/5/2020 14:00,8/1/2025 20:00,1976,Legacy,30741846475,7,Large Cap,"DeFi, DEX",Ethereum,"['DeFi', 'DEX']",['Ethereum'],,['DeFi'],DeFi
+TRX,TRX-USD,3/5/2020 0:00,7/30/2025 0:00,1974,Legacy,30500214232,8,Large Cap,"Smart Contracts, Entertainment",Tron ,"['Smart Contracts', 'Entertainment']",['Tron'],,['Gaming & Metaverse'],Gaming & Metaverse
+ADA,ADA-USD,3/18/2021 16:00,7/30/2025 0:00,1595,Established,29955949870,9,Large Cap,"Smart Contracts, PoS",Cardano ,"['Smart Contracts', 'PoS']",['Cardano'],,['Other / Specialized'],Other / Specialized
+XLM,XLM-USD,3/14/2019 16:00,7/30/2025 4:00,2330,Legacy,15484302679,10,Large Cap,"Payments, Remittances",Stellar ,"['Payments', 'Remittances']",['Stellar'],,['Payments & Commerce'],Payments & Commerce
+SUI,SUI-USD,5/18/2023 16:00,7/30/2025 3:00,804,Established,13142393673,11,Large Cap,"Smart Contracts, Layer-1",Sui ,"['Smart Contracts', 'Layer-1']",['Sui'],,['Layer 1 Blockchains'],Layer 1 Blockchains
+LINK,LINK-USD,6/27/2019 16:00,7/30/2025 2:00,2225,Legacy,12192074628,12,Large Cap,"Oracles, DeFi",Ethereum,"['Oracles', 'DeFi']",['Ethereum'],,"['DeFi', 'Infrastructure & Data']","DeFi, Infrastructure & Data"
+HBAR,HBAR-USD,10/13/2022 16:00,7/30/2025 2:00,1021,Established,10996492224,13,Large Cap,"Enterprise, Hashgraph",Hedera,"['Enterprise', 'Hashgraph']",['Hedera'],,['Other / Specialized'],Other / Specialized
+AVAX,AVAX-USD,9/30/2021 19:00,7/30/2025 0:00,1399,Established,10059446765,14,Large Cap,"Smart Contracts, DeFi",Avalanche,"['Smart Contracts', 'DeFi']",['Avalanche'],,['DeFi'],DeFi
+BCH,BCH-USD,12/20/2017 1:00,7/30/2025 0:00,2779,Legacy,9972120241,15,Mid Cap,Payments,Bitcoin family,['Payments'],['Bitcoin family'],,['Payments & Commerce'],Payments & Commerce
+SHIB,SHIB-USD,9/9/2021 16:00,7/30/2025 3:00,1420,Established,8483773133,16,Mid Cap,"Meme, DeFi",Ethereum,"['Meme', 'DeFi']",['Ethereum'],,"['DeFi', 'Meme & Community Tokens']","DeFi, Meme & Community Tokens"
+LTC,LTC-USD,8/17/2016 4:00,7/30/2025 2:00,3269,Legacy,7744062365,17,Mid Cap,Payments,Bitcoin family,['Payments'],['Bitcoin family'],,['Payments & Commerce'],Payments & Commerce
+USDS,USDS-USD,7/10/2025 16:00,7/30/2025 2:00,20,New,7711349763,18,Mid Cap,Stablecoin (USD Peg),Independent,['Stablecoin (USD Peg)'],['Independent'],,['Stablecoins'],Stablecoins
+DOT,DOT-USD,6/16/2021 16:00,7/30/2025 1:00,1505,Established,6485465405,19,Mid Cap,"Interoperability, Multi-Chain",Polkadot,"['Interoperability', 'Multi-Chain']",['Polkadot'],,['Layer 2 / Scaling'],Layer 2 / Scaling
+XMR,XMR-USD,1/13/2017 6:00,8/1/2025 20:00,3123,Legacy,5513907307,20,Mid Cap,Privacy,Monero ,['Privacy'],['Monero'],,['Privacy & Security'],Privacy & Security
+AAVE,AAVE-USD,12/15/2020 17:00,7/30/2025 0:00,1688,Established,4833951492,22,Mid Cap,"Gaming, GameFi",Ethereum,"['Gaming', 'GameFi']",['Ethereum'],,['Gaming & Metaverse'],Gaming & Metaverse
+PEPE,PEPE-USD,11/13/2024 16:00,7/30/2025 3:00,259,New,4816996526,23,Mid Cap,Meme,Ethereum,['Meme'],['Ethereum'],,['Meme & Community Tokens'],Meme & Community Tokens
+ENA,ENA-USD,6/5/2025 16:00,7/30/2025 1:00,55,New,3968843063,24,Mid Cap,"Synthetic Assets, Stablecoin",Ethereum,"['Synthetic Assets', 'Stablecoin']",['Ethereum'],,"['DeFi', 'Stablecoins']","DeFi, Stablecoins"
+CRO,CRO-USD,11/3/2021 16:00,7/30/2025 1:00,1365,Established,3880283097,25,Mid Cap,"Exchange, DeFi",Cronos,"['Exchange', 'DeFi']",['Cronos'],,['DeFi'],DeFi
+DAI,DAI-USD,4/30/2020 16:00,7/30/2025 1:00,1917,Legacy,3753326558,26,Mid Cap,"Stablecoin, DeFi",Ethereum,"['Stablecoin', 'DeFi']",['Ethereum'],,"['DeFi', 'Stablecoins']","DeFi, Stablecoins"
+TAO,TAO-USD,2/20/2025 17:00,7/30/2025 3:00,160,New,3568632908,27,Mid Cap,"AI, Machine Learning",Independent,"['AI', 'Machine Learning']",['Independent'],,['AI & Big Data'],AI & Big Data
+NEAR,NEAR-USD,9/1/2022 16:00,7/30/2025 2:00,1063,Established,3333113818,28,Mid Cap,"Smart Contracts, dApps",NEAR ,"['Smart Contracts', 'dApps']",['NEAR'],,['Other / Specialized'],Other / Specialized
+ETC,ETC-USD,8/8/2018 18:00,7/30/2025 1:00,2548,Legacy,3093864956,29,Mid Cap,Smart Contracts,Ethereum Classic,['Smart Contracts'],['Ethereum Classic'],,['Other / Specialized'],Other / Specialized
+COMP,COMP-USD,6/23/2020 16:00,7/30/2025 1:00,1863,Legacy,3086514575,30,Mid Cap,"DeFi, Lending",Ethereum,"['DeFi', 'Lending']",['Ethereum'],,['DeFi'],DeFi
+ICP,ICP-USD,5/10/2021 17:00,7/30/2025 2:00,1542,Established,3062632483,31,Mid Cap,"Layer-2, Scaling",Ethereum,"['Layer-2', 'Scaling']",['Ethereum'],,['Layer 2 / Scaling'],Layer 2 / Scaling
+APT,APT-USD,10/19/2022 1:00,7/30/2025 0:00,1015,Established,3035227892,32,Mid Cap,"Web3, IP Management",Independent ,"['Web3', 'IP Management']",['Independent'],,['Other / Specialized'],Other / Specialized
+ONDO,ONDO-USD,1/22/2024 18:00,7/30/2025 2:00,555,New,3022399879,33,Mid Cap,"Security, Monitoring",Ethereum,"['Security', 'Monitoring']",['Ethereum'],,"['Privacy & Security', 'Infrastructure & Data']","Privacy & Security, Infrastructure & Data"
+JITOSOL,JITOSOL-USD,7/24/2025 16:00,7/30/2025 2:00,6,New,2849873245,34,Mid Cap,Liquid Staking,Ethereum,['Liquid Staking'],['Ethereum'],,['DeFi'],DeFi
+ALGO,ALGO-USD,8/15/2019 16:00,7/30/2025 0:00,2176,Legacy,2769752654,35,Mid Cap,"Gaming, Deflationary Token",Arbitrum,"['Gaming', 'Deflationary Token']",['Arbitrum'],,['Gaming & Metaverse'],Gaming & Metaverse
+MANTLE,MANTLE-USD,5/1/2025 16:00,7/30/2025 2:00,90,New,2536261321,36,Mid Cap,"DeFi, Governance",Ethereum,"['DeFi', 'Governance']",['Ethereum'],,['DeFi'],DeFi
+ATOM,ATOM-USD,1/14/2020 18:00,7/30/2025 0:00,2024,Legacy,2224957018,37,Mid Cap,Liquid Staking,Solana,['Liquid Staking'],['Solana'],,['DeFi'],DeFi
+PENGU,PENGU-USD,2/13/2025 17:00,7/30/2025 3:00,167,New,2223676089,38,Mid Cap,"NFTs, Meme",Ethereum,"['NFTs', 'Meme']",['Ethereum'],,"['NFTs & Digital Collectibles', 'Meme & Community Tokens']","NFTs & Digital Collectibles, Meme & Community Tokens"
+BONK,BONK-USD,12/14/2023 17:00,7/30/2025 1:00,594,New,2195732954,39,Mid Cap,"Meme, Solana Ecosystem",Solana,"['Meme', 'Solana Ecosystem']",['Solana'],,['Meme & Community Tokens'],Meme & Community Tokens
+ARB,ARB-USD,3/23/2023 16:00,7/30/2025 0:00,860,Established,2159134474,40,Mid Cap,"Layer-2, Scaling",Ethereum Layer-2,"['Layer-2', 'Scaling']",['Ethereum Layer-2'],,['Layer 2 / Scaling'],Layer 2 / Scaling
+MATIC,MATIC-USD,3/11/2021 17:00,7/30/2025 2:00,1602,Established,2130501715,41,Mid Cap,"Layer-2, Scaling","Multi Chain, Ethereum, Polygon","['Layer-2', 'Scaling']","['Multi Chain', 'Ethereum', 'Polygon']",,['Layer 2 / Scaling'],Layer 2 / Scaling
+VET,VET-USD,9/13/2023 16:00,7/30/2025 3:00,686,New,2127625391,42,Mid Cap,"Supply Chain, Enterprise",VeChainThor,"['Supply Chain', 'Enterprise']",['VeChainThor'],,['Other / Specialized'],Other / Specialized
+RENDER,RENDER-USD,2/15/2024 17:00,7/30/2025 3:00,531,New,2039814997,43,Mid Cap,"Distributed Computing, GPU",Ethereum,"['Distributed Computing', 'GPU']",['Ethereum'],,['AI & Big Data'],AI & Big Data
+FET,FET-USD,7/27/2021 16:00,7/30/2025 1:00,1464,Established,1997978011,44,Mid Cap,"AI, DeFi",Ethereum,"['AI', 'DeFi']",['Ethereum'],,"['DeFi', 'AI & Big Data']","DeFi, AI & Big Data"
+POL,POL-USD,9/4/2024 22:00,7/30/2025 3:00,329,New,1972529328,45,Mid Cap,"Layer-2, Scaling",Ethereum,"['Layer-2', 'Scaling']",['Ethereum'],,['Layer 2 / Scaling'],Layer 2 / Scaling
+WLD,WLD-USD,4/30/2025 20:00,7/30/2025 3:00,91,New,1953566183,46,Mid Cap,"Digital Identity, UBI",Ethereum,"['Digital Identity', 'UBI']",['Ethereum'],,['Privacy & Security'],Privacy & Security
+TRUMP,TRUMP-USD,1/21/2025 18:00,7/30/2025 3:00,190,New,1873377904,47,Mid Cap,"Meme, Collectible",Ethereum,"['Meme', 'Collectible']",['Ethereum'],,"['NFTs & Digital Collectibles', 'Meme & Community Tokens']","NFTs & Digital Collectibles, Meme & Community Tokens"
+FIL,FIL-USD,12/9/2020 17:00,7/30/2025 1:00,1694,Established,1850322835,48,Mid Cap,Decentralized Storage,Filecoin,['Decentralized Storage'],['Filecoin'],,['Other / Specialized'],Other / Specialized
+SKY,SKY-USD,7/10/2025 16:00,7/30/2025 3:00,20,New,1834545337,49,Mid Cap,"Stablecoin Platform, DeFi",Solana,"['Stablecoin Platform', 'DeFi']",['Solana'],,"['DeFi', 'Stablecoins']","DeFi, Stablecoins"
+SEI,SEI-USD,8/15/2023 16:00,7/30/2025 3:00,715,New,1815535654,50,Mid Cap,"DeFi, Exchange Optimized",Cosmos,"['DeFi', 'Exchange Optimized']",['Cosmos'],,['DeFi'],DeFi
+IP,IP-USD,2/13/2025 16:00,7/30/2025 2:00,167,New,1750345859,51,Mid Cap,"Web3, IP Management",Story Network,"['Web3', 'IP Management']",['Story Network'],,['Other / Specialized'],Other / Specialized
+FLR,FLR-USD,4/14/2023 17:00,7/30/2025 1:00,838,Established,1710896907,52,Mid Cap,"Smart Contracts, Data",Flare,"['Smart Contracts', 'Data']",['Flare'],,['Infrastructure & Data'],Infrastructure & Data
+FORT,FORT-USD,6/15/2022 16:00,7/30/2025 1:00,1141,Established,1710896907,53,Mid Cap,"Security, Monitoring",Ethereum,"['Security', 'Monitoring']",['Ethereum'],,"['Privacy & Security', 'Infrastructure & Data']","Privacy & Security, Infrastructure & Data"
+QNT,QNT-USD,6/24/2021 16:00,7/30/2025 3:00,1497,Established,1649658157,54,Mid Cap,"Enterprise, Interoperability",Ethereum,"['Enterprise', 'Interoperability']",['Ethereum'],,['Layer 2 / Scaling'],Layer 2 / Scaling
+LSETH,LSETH-USD,3/7/2023 15:00,7/30/2025 0:00,876,Established,1396917159,55,Mid Cap,Liquid Staking,Ethereum,['Liquid Staking'],['Ethereum'],,['DeFi'],DeFi
+CRV,CRV-USD,3/25/2021 16:00,7/30/2025 1:00,1588,Established,1388356301,56,Mid Cap,"DeFi, DEX",Ethereum,"['DeFi', 'DEX']",['Ethereum'],,['DeFi'],DeFi
+STX,STX-USD,1/20/2022 18:00,7/30/2025 3:00,1287,Established,1363186744,57,Mid Cap,Bitcoin Smart Contracts,Bitcoin,['Bitcoin Smart Contracts'],['Bitcoin'],,['Other / Specialized'],Other / Specialized
+INJ,INJ-USD,9/20/2022 16:00,7/30/2025 2:00,1044,Established,1356298234,58,Mid Cap,"DeFi, Derivatives",Cosmos,"['DeFi', 'Derivatives']",['Cosmos'],,['DeFi'],DeFi
+TIA,TIA-USD,11/1/2023 18:00,7/30/2025 3:00,637,New,1318115544,59,Mid Cap,"Modular Blockchain, Data Availability",Celestia ,"['Modular Blockchain', 'Data Availability']",['Celestia'],,['Infrastructure & Data'],Infrastructure & Data
+OP,OP-USD,6/1/2022 1:00,7/30/2025 2:00,1156,Established,1253663420,60,Mid Cap,"Layer-2, Scaling",Ethereum (Layer-2),"['Layer-2', 'Scaling']",['Ethereum (Layer-2)'],,['Layer 2 / Scaling'],Layer 2 / Scaling
+FLOKI,FLOKI-USD,11/21/2024 17:00,7/30/2025 1:00,251,New,1091144909,61,Mid Cap,"Meme, DeFi","Multi Chain, Ethereum, BSC","['Meme', 'DeFi']","['Multi Chain', 'Ethereum', 'BSC']",,"['DeFi', 'Meme & Community Tokens']","DeFi, Meme & Community Tokens"
+FARTCOIN,FARTCOIN-USD,6/12/2025 16:00,7/30/2025 1:00,48,New,1060899581,62,Mid Cap,"Meme, Community",Solana,"['Meme', 'Community']",['Solana'],,['Meme & Community Tokens'],Meme & Community Tokens
+S,S-USD,6/24/2025 16:00,7/30/2025 3:00,36,New,1057111960,63,Mid Cap,"Gaming, Deflationary Token",Arbitrum,"['Gaming', 'Deflationary Token']",['Arbitrum'],,['Gaming & Metaverse'],Gaming & Metaverse
+IMX,IMX-USD,12/9/2021 17:00,7/30/2025 2:00,1329,Established,1049987729,64,Mid Cap,"NFTs, Gaming",Ethereum (Layer-2),"['NFTs', 'Gaming']",['Ethereum (Layer-2)'],,"['NFTs & Digital Collectibles', 'Gaming & Metaverse']","NFTs & Digital Collectibles, Gaming & Metaverse"
+GRT,GRT-USD,12/17/2020 17:00,7/30/2025 1:00,1686,Established,1043481839,65,Mid Cap,"Web3, Data Indexing",Ethereum,"['Web3', 'Data Indexing']",['Ethereum'],,['Infrastructure & Data'],Infrastructure & Data
+PUMP,PUMP-USD,7/15/2025 13:00,7/30/2025 3:00,15,New,980040387,66,Small Cap,"Meme, Social",Ethereum,"['Meme', 'Social']",['Ethereum'],,['Meme & Community Tokens'],Meme & Community Tokens
+WIF,WIF-USD,11/13/2024 20:00,7/30/2025 3:00,259,New,978151475,67,Small Cap,Meme,Ethereum,['Meme'],['Ethereum'],,['Meme & Community Tokens'],Meme & Community Tokens
+CAKE,CAKE-USD,6/12/2025 16:00,7/30/2025 0:00,48,New,974308777,68,Small Cap,"DeFi, DEX",BNB Chain,"['DeFi', 'DEX']",['BNB Chain'],,['DeFi'],DeFi
+MKR,MKR-USD,6/9/2020 16:00,7/30/2025 2:00,1877,Legacy,950355367,69,Small Cap,"DeFi, Governance",Ethereum,"['DeFi', 'Governance']",['Ethereum'],,['DeFi'],DeFi
+PAXG,PAXG-USD,5/8/2025 18:00,7/30/2025 2:00,83,New,934073202,70,Small Cap,"Asset-Backed, Gold",Ethereum,"['Asset-Backed', 'Gold']",['Ethereum'],,['Other / Specialized'],Other / Specialized
+ENS,ENS-USD,11/16/2021 17:00,7/30/2025 1:00,1352,Established,929674857,71,Small Cap,"Identity, NFT",Ethereum,"['Identity', 'NFT']",['Ethereum'],,"['NFTs & Digital Collectibles', 'Privacy & Security']","NFTs & Digital Collectibles, Privacy & Security"
+MSOL,MSOL-USD,11/3/2022 16:00,7/30/2025 1:00,1000,Established,925417476,72,Small Cap,Liquid Staking,Solana,['Liquid Staking'],['Solana'],,['DeFi'],DeFi
+LDO,LDO-USD,11/17/2022 17:00,7/30/2025 2:00,986,Established,917700483,73,Small Cap,"DeFi, Staking",Ethereum,"['DeFi', 'Staking']",['Ethereum'],,['DeFi'],DeFi
+SYRUP,SYRUP-USD,3/13/2025 16:00,7/30/2025 3:00,139,New,865641435,74,Small Cap,"DeFi, Lending",Ethereum,"['DeFi', 'Lending']",['Ethereum'],,['DeFi'],DeFi
+JASMY,JASMY-USD,10/7/2021 19:00,7/30/2025 2:00,1392,Established,845083324,75,Small Cap,"IoT, Data Marketplace",Ethereum,"['IoT', 'Data Marketplace']",['Ethereum'],,['Infrastructure & Data'],Infrastructure & Data
+ZEC,ZEC-USD,12/8/2020 17:00,7/30/2025 4:00,1695,Established,734537519,76,Small Cap,"Privacy, Payments",Independent,"['Privacy', 'Payments']",['Independent'],,"['Privacy & Security', 'Payments & Commerce']","Privacy & Security, Payments & Commerce"
+PENDLE,PENDLE-USD,3/27/2025 17:00,7/30/2025 3:00,125,New,728570896,77,Small Cap,"DeFi, Yield",Ethereum,"['DeFi', 'Yield']",['Ethereum'],,['DeFi'],DeFi
+AERO,AERO-USD,2/6/2024 17:00,7/30/2025 0:00,540,New,718688540,78,Small Cap,"DeFi, DEX","Optimism, Ethereum Layer-2","['DeFi', 'DEX']","['Optimism', 'Ethereum Layer-2']",,['DeFi'],DeFi
+SAND,SAND-USD,5/26/2022 16:00,7/30/2025 3:00,1161,Established,712183014,79,Small Cap,"Metaverse, Gaming",Ethereum,"['Metaverse', 'Gaming']",['Ethereum'],,['Gaming & Metaverse'],Gaming & Metaverse
+PYTH,PYTH-USD,2/20/2025 17:00,7/30/2025 3:00,160,New,704913390,80,Small Cap,"Oracle, Data",Solana,"['Oracle', 'Data']",['Solana'],,['Infrastructure & Data'],Infrastructure & Data
+XTZ,XTZ-USD,8/6/2019 16:00,7/30/2025 4:00,2185,Legacy,701893482,81,Small Cap,"Smart Contracts, Governance",Tezos ,"['Smart Contracts', 'Governance']",['Tezos'],,['Other / Specialized'],Other / Specialized
+JTO,JTO-USD,12/7/2023 16:00,7/30/2025 2:00,601,New,664133039,82,Small Cap,"Liquid Staking, DeFi",Solana,"['Liquid Staking', 'DeFi']",['Solana'],,['DeFi'],DeFi
+MANA,MANA-USD,4/20/2021 16:00,7/30/2025 2:00,1562,Established,629650708,83,Small Cap,"Metaverse, Gaming",Ethereum,"['Metaverse', 'Gaming']",['Ethereum'],,['Gaming & Metaverse'],Gaming & Metaverse
+FLOW,FLOW-USD,5/19/2022 16:00,7/30/2025 1:00,1168,Established,625654278,84,Small Cap,"Layer-1, NFTs/Gaming",Independent,"['Layer-1', 'NFTs/Gaming']",['Independent'],,"['Layer 1 Blockchains', 'NFTs & Digital Collectibles', 'Gaming & Metaverse']","Layer 1 Blockchains, NFTs & Digital Collectibles, Gaming & Metaverse"
+HNT,HNT-USD,7/12/2023 16:00,7/30/2025 2:00,749,Established,592156240,85,Small Cap,"IoT, Wireless",Solana,"['IoT', 'Wireless']",['Solana'],,['Other / Specialized'],Other / Specialized
+MORPHO,MORPHO-USD,2/27/2025 17:00,7/30/2025 2:00,153,New,592020487,86,Small Cap,"DeFi, Lending",Ethereum,"['DeFi', 'Lending']",['Ethereum'],,['DeFi'],DeFi
+CORECHAIN,CORECHAIN-USD,6/21/2024 16:00,7/30/2025 1:00,404,New,588407000,87,Small Cap,"Layer-1, EVM",Independent,"['Layer-1', 'EVM']",['Independent'],,['Layer 1 Blockchains'],Layer 1 Blockchains
+MOG,MOG-USD,12/5/2024 21:00,7/30/2025 2:00,237,New,564594299,88,Small Cap,Meme,Ethereum,['Meme'],['Ethereum'],,['Meme & Community Tokens'],Meme & Community Tokens
+CBETH,CBETH-USD,8/25/2022 16:00,7/30/2025 1:00,1070,Established,555127224,89,Small Cap,Liquid Staking,Ethereum,['Liquid Staking'],['Ethereum'],,['DeFi'],DeFi
+XCN,XCN-USD,6/28/2022 18:00,7/30/2025 3:00,1128,Established,532012355,90,Small Cap,"Enterprise, Blockchain Services",Ethereum,"['Enterprise', 'Blockchain Services']",['Ethereum'],,['Other / Specialized'],Other / Specialized
+ETHFI,ETHFI-USD,2/6/2025 17:00,7/30/2025 1:00,174,New,530044260,91,Small Cap,Liquid Staking,Ethereum,['Liquid Staking'],['Ethereum'],,['DeFi'],DeFi
+TUSD,TUSD-USD,6/29/2023 17:00,8/1/2025 20:00,765,Established,492704543,92,Small Cap,Stablecoin,Ethereum,['Stablecoin'],['Ethereum'],,['Stablecoins'],Stablecoins
+RSR,RSR-USD,4/22/2025 16:00,7/30/2025 3:00,99,New,487096272,93,Small Cap,"Stablecoin, Governance",Ethereum,"['Stablecoin', 'Governance']",['Ethereum'],,['Stablecoins'],Stablecoins
+APE,APE-USD,3/17/2022 16:00,7/30/2025 0:00,1231,Established,480133433,94,Small Cap,"NFT, Community",Ethereum,"['NFT', 'Community']",['Ethereum'],,"['NFTs & Digital Collectibles', 'Meme & Community Tokens']","NFTs & Digital Collectibles, Meme & Community Tokens"
+1INCH,1INCH-USD,4/9/2021 16:00,7/30/2025 0:00,1573,Established,451294499,95,Small Cap,"DeFi, DEX Aggregator",Ethereum,"['DeFi', 'DEX Aggregator']",['Ethereum'],,['DeFi'],DeFi
+STRK,STRK-USD,2/21/2024 19:00,7/30/2025 3:00,525,New,450496642,96,Small Cap,"DeFi, Lending",Ethereum,"['DeFi', 'Lending']",['Ethereum'],,['DeFi'],DeFi
+W,W-USD,7/2/2025 16:00,7/30/2025 3:00,28,New,442177361,97,Small Cap,"Meme, Utility",Base,"['Meme', 'Utility']",['Base'],,['Meme & Community Tokens'],Meme & Community Tokens
+AXS,AXS-USD,8/12/2021 19:00,7/30/2025 0:00,1448,Established,437363193,98,Small Cap,"Gaming, NFT","Ethereum, Ronin","['Gaming', 'NFT']","['Ethereum', 'Ronin']",,"['NFTs & Digital Collectibles', 'Gaming & Metaverse']","NFTs & Digital Collectibles, Gaming & Metaverse"
+AIOZ,AIOZ-USD,3/8/2022 22:00,7/30/2025 0:00,1240,Established,434129360,99,Small Cap,"Streaming, CDN",Cosmos,"['Streaming', 'CDN']",['Cosmos'],,['Other / Specialized'],Other / Specialized
+EGLD,EGLD-USD,12/7/2022 17:00,7/30/2025 1:00,966,Established,433406216,100,Small Cap,"Layer-1, Smart Contracts",Independent,"['Layer-1', 'Smart Contracts']",['Independent'],,['Layer 1 Blockchains'],Layer 1 Blockchains
+KAVA,KAVA-USD,1/19/2023 17:00,7/30/2025 2:00,923,Established,424663046,101,Small Cap,"Layer-1, DeFi","Multi Chain, Cosmos, Ethereum","['Layer-1', 'DeFi']","['Multi Chain', 'Cosmos', 'Ethereum']",,"['Layer 1 Blockchains', 'DeFi']","Layer 1 Blockchains, DeFi"
+CHZ,CHZ-USD,6/17/2021 16:00,7/30/2025 0:00,1504,Established,413874462,102,Small Cap,"Fan Engagement, Sports",Ethereum,"['Fan Engagement', 'Sports']",['Ethereum'],,"['Gaming & Metaverse', 'Meme & Community Tokens']","Gaming & Metaverse, Meme & Community Tokens"
+ZK,ZK-USD,9/25/2024 16:00,7/30/2025 4:00,308,New,402995357,103,Small Cap,"Layer-2, Rollup",Ethereum,"['Layer-2', 'Rollup']",['Ethereum'],,['Layer 2 / Scaling'],Layer 2 / Scaling
+EIGEN,EIGEN-USD,10/1/2024 16:00,7/30/2025 1:00,302,New,402718815,104,Small Cap,"Infrastructure, Restaking",Ethereum,"['Infrastructure', 'Restaking']",['Ethereum'],,"['DeFi', 'Infrastructure & Data']","DeFi, Infrastructure & Data"
+EOS,EOS-USD,4/9/2019 16:00,7/30/2025 1:00,2304,Legacy,393857319,105,Small Cap,"Layer-1, dApps",Independent,"['Layer-1', 'dApps']",['Independent'],,['Layer 1 Blockchains'],Layer 1 Blockchains
+SUPER,SUPER-USD,12/7/2021 17:00,7/30/2025 3:00,1331,Established,392479371,106,Small Cap,"DeFi, NFTs",Ethereum,"['DeFi', 'NFTs']",['Ethereum'],,"['DeFi', 'NFTs & Digital Collectibles']","DeFi, NFTs & Digital Collectibles"
+CVX,CVX-USD,9/8/2022 16:00,7/30/2025 1:00,1056,Established,386668852,107,Small Cap,"DeFi, Yield",Ethereum,"['DeFi', 'Yield']",['Ethereum'],,['DeFi'],DeFi
+RONIN,RONIN-USD,3/21/2024 16:00,7/30/2025 3:00,496,New,382286976,108,Small Cap,"Sidechain, Gaming","Ethereum, Ronin","['Sidechain', 'Gaming']","['Ethereum', 'Ronin']",,"['Layer 2 / Scaling', 'Gaming & Metaverse']","Layer 2 / Scaling, Gaming & Metaverse"
+WAXL,WAXL-USD,10/25/2022 16:00,7/30/2025 3:00,1009,Established,378000000,109,Small Cap,"Interoperability, Bridge","Multi Chain, Ethereum, Axelar","['Interoperability', 'Bridge']","['Multi Chain', 'Ethereum', 'Axelar']",,['Layer 2 / Scaling'],Layer 2 / Scaling
+AXL,AXL-USD,2/7/2023 17:00,7/30/2025 0:00,904,Established,367080428,110,Small Cap,"Interoperability, Cross-Chain",Cosmos,"['Interoperability', 'Cross-Chain']",['Cosmos'],,['Layer 2 / Scaling'],Layer 2 / Scaling
+ATH,ATH-USD,3/13/2025 16:00,7/30/2025 0:00,139,New,366581552,111,Small Cap,"Cloud, AI/Computing","Ethereum, Arbitrum","['Cloud', 'AI/Computing']","['Ethereum', 'Arbitrum']",,['AI & Big Data'],AI & Big Data
+GNO,GNO-USD,7/21/2022 17:00,7/30/2025 1:00,1105,Established,348566943,112,Small Cap,"DeFi, Infrastructure",Ethereum,"['DeFi', 'Infrastructure']",['Ethereum'],,"['DeFi', 'Infrastructure & Data']","DeFi, Infrastructure & Data"
+AKT,AKT-USD,3/19/2024 16:00,7/30/2025 0:00,498,New,347986443,113,Small Cap,"Cloud, Marketplace", Cosmos,"['Cloud', 'Marketplace']",['Cosmos'],,['Other / Specialized'],Other / Specialized
+AMP,AMP-USD,6/10/2021 16:00,7/30/2025 0:00,1511,Established,341103086,114,Small Cap,"Payments, Collateral",Ethereum,"['Payments', 'Collateral']",['Ethereum'],,"['DeFi', 'Payments & Commerce']","DeFi, Payments & Commerce"
+TURBO,TURBO-USD,12/11/2024 18:00,7/30/2025 3:00,231,New,330572289,115,Small Cap,Meme,Ethereum,['Meme'],['Ethereum'],,['Meme & Community Tokens'],Meme & Community Tokens
+POPCAT,POPCAT-USD,2/13/2025 17:00,7/30/2025 3:00,167,New,326853400,116,Small Cap,Meme,Solana,['Meme'],['Solana'],,['Meme & Community Tokens'],Meme & Community Tokens
+LPT,LPT-USD,6/24/2021 16:00,7/30/2025 2:00,1497,Established,305484785,117,Small Cap,"Streaming, Video",Ethereum,"['Streaming', 'Video']",['Ethereum'],,['Other / Specialized'],Other / Specialized
+KAITO,KAITO-USD,2/20/2025 18:00,7/30/2025 2:00,160,New,298509389,118,Small Cap,"AI, Analytics",Ethereum,"['AI', 'Analytics']",['Ethereum'],,"['Infrastructure & Data', 'AI & Big Data']","Infrastructure & Data, AI & Big Data"
+ABT,ABT-USD,7/21/2022 17:00,7/30/2025 0:00,1105,Established,289667479,119,Small Cap,Gaming,Ethereum,['Gaming'],['Ethereum'],,['Gaming & Metaverse'],Gaming & Metaverse
+SAFE,SAFE-USD,4/23/2024 18:00,7/30/2025 3:00,463,New,288284613,120,Small Cap,"Security, Wallet",Ethereum,"['Security', 'Wallet']",['Ethereum'],,['Privacy & Security'],Privacy & Security
+DASH,DASH-USD,9/17/2019 16:00,7/30/2025 1:00,2143,Legacy,279656593,121,Small Cap,"Payments, Privacy",Independent,"['Payments', 'Privacy']",['Independent'],,"['Privacy & Security', 'Payments & Commerce']","Privacy & Security, Payments & Commerce"
+VELO,VELO-USD,2/6/2024 17:00,7/30/2025 3:00,540,New,278951227,122,Small Cap,"Remittances, Payments",Stellar,"['Remittances', 'Payments']",['Stellar'],,['Payments & Commerce'],Payments & Commerce
+GLM,GLM-USD,3/9/2022 0:00,7/30/2025 1:00,1240,Established,273252516,123,Small Cap,"Computing, Marketplace",Ethereum,"['Computing', 'Marketplace']",['Ethereum'],,['AI & Big Data'],AI & Big Data
+PNUT,PNUT-USD,1/14/2025 17:00,7/30/2025 3:00,197,New,256293562,124,Small Cap,DeFi,Unknown,['DeFi'],['Unknown'],,['DeFi'],DeFi
+KSM,KSM-USD,6/2/2022 16:00,7/30/2025 2:00,1154,Established,252856241,125,Small Cap,"Blockchain, Parachain",Polkadot,"['Blockchain', 'Parachain']",['Polkadot'],,"['Layer 1 Blockchains', 'Layer 2 / Scaling']","Layer 1 Blockchains, Layer 2 / Scaling"
+MINA,MINA-USD,4/6/2022 16:00,7/30/2025 2:00,1211,Established,248259235,126,Small Cap,"Blockchain, Privacy",Independent,"['Blockchain', 'Privacy']",['Independent'],,"['Layer 1 Blockchains', 'Privacy & Security']","Layer 1 Blockchains, Privacy & Security"
+ZORA,ZORA-USD,4/24/2025 20:00,7/30/2025 4:00,97,New,246592349,127,Small Cap,"NFT, Marketplace",Ethereum,"['NFT', 'Marketplace']",['Ethereum'],,['NFTs & Digital Collectibles'],NFTs & Digital Collectibles
+BERA,BERA-USD,2/6/2025 20:00,7/30/2025 0:00,174,New,243626405,128,Small Cap,"Layer-1, DeFi", (Cosmos),"['Layer-1', 'DeFi']",['(Cosmos)'],,"['Layer 1 Blockchains', 'DeFi']","Layer 1 Blockchains, DeFi"
+ARKM,ARKM-USD,4/2/2024 16:00,7/30/2025 0:00,484,New,238664309,129,Small Cap,"Analytics, Intelligence",Ethereum,"['Analytics', 'Intelligence']",['Ethereum'],,['Infrastructure & Data'],Infrastructure & Data
+BAT,BAT-USD,4/20/2021 16:00,7/30/2025 0:00,1562,Established,236938236,130,Small Cap,"Advertising, Browser",Ethereum,"['Advertising', 'Browser']",['Ethereum'],,['Other / Specialized'],Other / Specialized
+TOSHI,TOSHI-USD,1/23/2025 17:00,7/30/2025 3:00,188,New,235717013,131,Small Cap,"Tools, Analytics",Ethereum,"['Tools', 'Analytics']",['Ethereum'],,['Infrastructure & Data'],Infrastructure & Data
+SNX,SNX-USD,12/15/2020 17:00,7/30/2025 3:00,1688,Established,234097660,132,Small Cap,"DeFi, Derivatives",Ethereum,"['DeFi', 'Derivatives']",['Ethereum'],,['DeFi'],DeFi
+ZRX,ZRX-USD,10/12/2018 14:00,7/30/2025 4:00,2483,Legacy,233869266,133,Small Cap,"DeFi, DEX",Ethereum,"['DeFi', 'DEX']",['Ethereum'],,['DeFi'],DeFi
+BLUR,KSM-USD,9/17/2020 14:00,8/1/2025 20:00,1780,Established,229430593,134,Small Cap,NFT Marketplace,Ethereum,['NFT Marketplace'],['Ethereum'],,['NFTs & Digital Collectibles'],NFTs & Digital Collectibles
+IOTX,00-USD,10/11/2022 17:00,7/30/2025 0:00,1023,Established,215987239,135,Small Cap,"IoT, Blockchain",Independent,"['IoT', 'Blockchain']",['Independent'],,['Layer 1 Blockchains'],Layer 1 Blockchains
+TRAC,TRAC-USD,11/2/2021 16:00,7/30/2025 3:00,1366,Established,209345099,136,Small Cap,"Supply Chain, Data",Polkadot,"['Supply Chain', 'Data']",['Polkadot'],,['Infrastructure & Data'],Infrastructure & Data
+ZRO,ZRO-USD,6/20/2024 17:00,7/30/2025 4:00,405,New,204185102,137,Small Cap,"Interoperability, Messaging",Ethereum,"['Interoperability', 'Messaging']",['Ethereum'],,['Layer 2 / Scaling'],Layer 2 / Scaling
+YFI,YFI-USD,9/15/2020 16:00,7/30/2025 3:00,1779,Established,200625011,138,Small Cap,"DeFi, Yield Aggregator",Ethereum,"['DeFi', 'Yield Aggregator']",['Ethereum'],,['DeFi'],DeFi
+AST,AST-USD,6/28/2022 18:00,7/30/2025 0:00,1128,Established,200093966,139,Small Cap,"DeFi, DEX",Ethereum,"['DeFi', 'DEX']",['Ethereum'],,['DeFi'],DeFi
+CGLD,CGLD-USD,9/1/2020 16:00,7/30/2025 0:00,1793,Established,199855494,140,Small Cap,"Mobile, Payments",Independent,"['Mobile', 'Payments']",['Independent'],,['Payments & Commerce'],Payments & Commerce
+ROSE,ROSE-USD,4/26/2022 16:00,7/30/2025 3:00,1191,Established,197205592,141,Small Cap,"Privacy, Layer-1",Independent,"['Privacy', 'Layer-1']",['Independent'],,"['Layer 1 Blockchains', 'Privacy & Security']","Layer 1 Blockchains, Privacy & Security"
+COW,COW-USD,9/24/2024 16:00,7/30/2025 1:00,309,New,196790288,142,Small Cap,"DeFi, DEX",Ethereum,"['DeFi', 'DEX']",['Ethereum'],,['DeFi'],DeFi
+SC,SC-USD,10/24/2019 17:00,8/1/2025 20:00,2109,Legacy,192807656,143,Small Cap,Storage,Independent,['Storage'],['Independent'],,['Other / Specialized'],Other / Specialized
+DRIFT,DRIFT-USD,5/17/2024 18:00,7/30/2025 1:00,439,New,190030511,144,Small Cap,"Derivatives, DEX",Solana,"['Derivatives', 'DEX']",['Solana'],,['DeFi'],DeFi
+ZETACHAIN,ZETACHAIN-USD,9/23/2024 16:00,7/30/2025 4:00,310,New,187367513,145,Small Cap,Interoperability,Independent ,['Interoperability'],['Independent'],,['Layer 2 / Scaling'],Layer 2 / Scaling
+VTHO,VTHO-USD,9/13/2023 16:00,7/30/2025 3:00,686,New,182241894,146,Small Cap,"Utility, Gas",VeChainThor,"['Utility', 'Gas']",['VeChainThor'],,['Other / Specialized'],Other / Specialized
+OMNI,OMNI-USD,4/17/2024 14:00,7/30/2025 2:00,469,New,180483827,147,Small Cap,"Bridge, Interoperability",Unknown,"['Bridge', 'Interoperability']",['Unknown'],,['Layer 2 / Scaling'],Layer 2 / Scaling
+MOODENG,MOODENG-USD,12/4/2024 18:00,7/30/2025 2:00,238,New,177374896,148,Small Cap,"Meme, Community",Solana,"['Meme', 'Community']",['Solana'],,['Meme & Community Tokens'],Meme & Community Tokens
+LOKA,LOKA-USD,8/4/2022 16:00,7/30/2025 2:00,1091,Established,175257253,149,Small Cap,"Gaming, Metaverse",Ethereum,"['Gaming', 'Metaverse']",['Ethereum'],,['Gaming & Metaverse'],Gaming & Metaverse
+ANKR,ANKR-USD,3/25/2021 16:00,7/30/2025 0:00,1588,Established,175054590,150,Small Cap,"Infrastructure, Staking",Ethereum,"['Infrastructure', 'Staking']",['Ethereum'],,"['DeFi', 'Infrastructure & Data']","DeFi, Infrastructure & Data"
+RPL,RPL-USD,12/8/2022 17:00,7/30/2025 3:00,965,Established,173290921,151,Small Cap,"Liquid Staking, Ethereum",Ethereum,"['Liquid Staking', 'Ethereum']",['Ethereum'],,['DeFi'],DeFi
+GIGA,GIGA-USD,12/11/2024 17:00,7/30/2025 1:00,231,New,169062829,152,Small Cap,"Meme, Social",Solana,"['Meme', 'Social']",['Solana'],,['Meme & Community Tokens'],Meme & Community Tokens
+T,T-USD,1/26/2023 17:00,7/30/2025 3:00,916,Established,167000000,153,Small Cap,"Privacy, Networking",Ethereum,"['Privacy', 'Networking']",['Ethereum'],,['Privacy & Security'],Privacy & Security
+ERA,ERA-USD,7/17/2025 19:00,7/30/2025 1:00,13,New,166212237,154,Small Cap,Gaming,BNB Chain,['Gaming'],['BNB Chain'],,['Gaming & Metaverse'],Gaming & Metaverse
+STG,STG-USD,7/10/2024 16:00,7/30/2025 2:00,385,New,161576035,155,Small Cap,"DeFi, Cross-Chain",Ethereum,"['DeFi', 'Cross-Chain']",['Ethereum'],,['DeFi'],DeFi
+XYO,XYO-USD,9/9/2021 16:00,7/30/2025 4:00,1420,Established,156808629,156,Small Cap,"IoT, Location",Ethereum,"['IoT', 'Location']",['Ethereum'],,['Other / Specialized'],Other / Specialized
+MPLX,MPLX-USD,7/24/2025 16:00,7/30/2025 2:00,6,New,147279406,157,Small Cap,"NFT, Infrastructure",Solana,"['NFT', 'Infrastructure']",['Solana'],,"['NFTs & Digital Collectibles', 'Infrastructure & Data']","NFTs & Digital Collectibles, Infrastructure & Data"
+ZEN,ZEN-USD,9/16/2021 19:00,7/30/2025 3:00,1413,Established,146514964,158,Small Cap,"Privacy, Sidechains",Independent,"['Privacy', 'Sidechains']",['Independent'],,"['Layer 2 / Scaling', 'Privacy & Security']","Layer 2 / Scaling, Privacy & Security"
+SUSHI,SUSHI-USD,3/11/2021 17:00,7/30/2025 3:00,1602,Established,146130024,159,Small Cap,"DeFi, DEX",Ethereum,"['DeFi', 'DEX']",['Ethereum'],,['DeFi'],DeFi
+ME,ME-USD,12/10/2024 22:00,7/30/2025 1:00,232,New,143224174,160,Small Cap,NFT Marketplace,Solana,['NFT Marketplace'],['Solana'],,['NFTs & Digital Collectibles'],NFTs & Digital Collectibles
+ORCA,ORCA-USD,2/1/2022 18:00,7/30/2025 2:00,1275,Established,142913958,161,Small Cap,"DEX, AMM",Solana,"['DEX', 'AMM']",['Solana'],,['DeFi'],DeFi
+GMT,GMT-USD,4/28/2022 16:00,7/30/2025 1:00,1189,Established,142747004,162,Small Cap,"Move-to-Earn, Fitness",Solana,"['Move-to-Earn', 'Fitness']",['Solana'],,['Gaming & Metaverse'],Gaming & Metaverse
+SQD,SQD-USD,6/12/2025 16:00,7/30/2025 3:00,48,New,141684880,163,Small Cap,"Data Infrastructure, Indexing","Multi Chain, Polkadot, Ethereum, Cosmos","['Data Infrastructure', 'Indexing']","['Multi Chain', 'Polkadot', 'Ethereum', 'Cosmos']",,['Infrastructure & Data'],Infrastructure & Data
+ALT,ALT-USD,3/27/2025 16:00,7/30/2025 0:00,125,New,140080659,164,Small Cap,"Layer-2, Scaling",Ethereum,"['Layer-2', 'Scaling']",['Ethereum'],,['Layer 2 / Scaling'],Layer 2 / Scaling
+MASK,MASK-USD,7/15/2021 20:00,7/30/2025 2:00,1476,Established,139499110,165,Small Cap,"Social, Web3",Ethereum,"['Social', 'Web3']",['Ethereum'],,['Other / Specialized'],Other / Specialized
+SKL,SKL-USD,3/11/2021 17:00,7/30/2025 3:00,1602,Established,137902411,166,Small Cap,"Scaling, Sidechain",Ethereum,"['Scaling', 'Sidechain']",['Ethereum'],,['Layer 2 / Scaling'],Layer 2 / Scaling
+ICX,ICX-USD,10/24/2019 21:00,8/1/2025 20:00,2108,Legacy,136370417,167,Small Cap,Interoperability,Independent,['Interoperability'],['Independent'],,['Layer 2 / Scaling'],Layer 2 / Scaling
+BLAST,BLAST-USD,6/26/2024 19:00,7/30/2025 0:00,399,New,134629135,168,Small Cap,"Layer?2, Scaling",Ethereum,"['Layer?2', 'Scaling']",['Ethereum'],,['Layer 2 / Scaling'],Layer 2 / Scaling
+ILV,ILV-USD,10/13/2022 16:00,7/30/2025 2:00,1021,Established,134249741,169,Small Cap,"Gaming, NFT",Ethereum,"['Gaming', 'NFT']",['Ethereum'],,"['NFTs & Digital Collectibles', 'Gaming & Metaverse']","NFTs & Digital Collectibles, Gaming & Metaverse"
+FAI,FAI-USD,3/27/2025 16:00,7/30/2025 1:00,125,New,131866028,170,Small Cap,"AI, Infrastructure",Independent,"['AI', 'Infrastructure']",['Independent'],,"['Infrastructure & Data', 'AI & Big Data']","Infrastructure & Data, AI & Big Data"
+COTI,COTI-USD,8/26/2021 22:00,7/30/2025 1:00,1434,Established,130926323,171,Small Cap,"Payments, Fintech",DAG,"['Payments', 'Fintech']",['DAG'],,['Payments & Commerce'],Payments & Commerce
+ALEO,ALEO-USD,9/18/2024 20:00,7/30/2025 0:00,315,New,130125055,172,Small Cap,"Privacy, ZK",Independent,"['Privacy', 'ZK']",['Independent'],,['Privacy & Security'],Privacy & Security
+OSMO,OSMO-USD,5/25/2023 16:00,7/30/2025 2:00,797,Established,128777225,173,Small Cap,"DEX, AMM",Cosmos,"['DEX', 'AMM']",['Cosmos'],,['DeFi'],DeFi
+PRIME,PRIME-USD,3/1/2023 19:00,7/30/2025 3:00,882,Established,123803440,174,Small Cap,"Gaming, Collectibles",Ethereum,"['Gaming', 'Collectibles']",['Ethereum'],,"['NFTs & Digital Collectibles', 'Gaming & Metaverse']","NFTs & Digital Collectibles, Gaming & Metaverse"
+LCX,LCX-USD,11/2/2021 16:00,7/30/2025 2:00,1366,Established,123108748,175,Small Cap,"Exchange, Compliance",Ethereum,"['Exchange', 'Compliance']",['Ethereum'],,['Privacy & Security'],Privacy & Security
+BIGTIME,BIGTIME-USD,10/12/2023 1:00,7/30/2025 0:00,657,New,121395812,176,Small Cap,"Gaming, Metaverse",Ethereum,"['Gaming', 'Metaverse']",['Ethereum'],,['Gaming & Metaverse'],Gaming & Metaverse
+WELL,WELL-USD,9/25/2024 16:00,7/30/2025 3:00,308,New,117734130,177,Small Cap,"DeFi, Lending",Polkadot,"['DeFi', 'Lending']",['Polkadot'],,['DeFi'],DeFi
+TRB,TRB-USD,5/6/2021 16:00,7/30/2025 3:00,1546,Established,114565854,178,Small Cap,"Oracle, DeFi",Ethereum,"['Oracle', 'DeFi']",['Ethereum'],,"['DeFi', 'Infrastructure & Data']","DeFi, Infrastructure & Data"
+SWFTC,SWFTC-USD,7/21/2022 16:00,7/30/2025 3:00,1105,Established,114481741,179,Small Cap,"Payments, Exchange",Ethereum,"['Payments', 'Exchange']",['Ethereum'],,['Payments & Commerce'],Payments & Commerce
+LRC,LRC-USD,9/15/2020 16:00,7/30/2025 2:00,1779,Established,114139287,180,Small Cap,"DEX, Layer-2",Ethereum,"['DEX', 'Layer-2']",['Ethereum'],,"['Layer 2 / Scaling', 'DeFi']","Layer 2 / Scaling, DeFi"
+ACH,ACH-USD,8/3/2021 16:00,7/30/2025 0:00,1457,Established,113749896,181,Small Cap,Independent (Gaming ecosystem),Ethereum,['Independent (Gaming ecosystem)'],['Ethereum'],,['Gaming & Metaverse'],Gaming & Metaverse
+IO,IO-USD,10/9/2024 16:00,7/30/2025 2:00,294,New,113693260,182,Small Cap,AI Infrastructure,Independent,['AI Infrastructure'],['Independent'],,"['Infrastructure & Data', 'AI & Big Data']","Infrastructure & Data, AI & Big Data"
+BAND,BAND-USD,8/11/2020 16:00,7/30/2025 0:00,1814,Established,111348892,183,Small Cap,Oracle,Cosmos,['Oracle'],['Cosmos'],,['Infrastructure & Data'],Infrastructure & Data
+SPK,SPK-USD,6/17/2025 20:00,7/30/2025 3:00,43,New,109583928,184,Small Cap,"DeFi, DAO","Multi Chain, Ethereum, MakerDAO","['DeFi', 'DAO']","['Multi Chain', 'Ethereum', 'MakerDAO']",,['DeFi'],DeFi
+UMA,UMA-USD,9/8/2020 16:00,7/30/2025 3:00,1786,Established,108545572,185,Small Cap,"DeFi, Derivatives",Ethereum,"['DeFi', 'Derivatives']",['Ethereum'],,['DeFi'],DeFi
+BICO,BICO-USD,12/1/2021 19:00,7/30/2025 0:00,1337,Established,108353022,186,Small Cap,"Infrastructure, Relayer",Ethereum,"['Infrastructure', 'Relayer']",['Ethereum'],,"['Layer 2 / Scaling', 'Infrastructure & Data']","Layer 2 / Scaling, Infrastructure & Data"
+METIS,METIS-USD,6/28/2022 19:00,7/30/2025 2:00,1128,Established,106645070,187,Small Cap,"Layer-2, DAO",Ethereum,"['Layer-2', 'DAO']",['Ethereum'],,['Layer 2 / Scaling'],Layer 2 / Scaling
+ACX,ACX-USD,8/21/2024 16:00,7/30/2025 0:00,343,New,105988604,188,Small Cap,"Cross-Chain, Bridge",Ethereum,"['Cross-Chain', 'Bridge']",['Ethereum'],,['Layer 2 / Scaling'],Layer 2 / Scaling
+REQ,REQ-USD,8/12/2021 19:00,7/30/2025 2:00,1448,Established,105567914,189,Small Cap,"Payments, Invoicing",Ethereum,"['Payments', 'Invoicing']",['Ethereum'],,['Payments & Commerce'],Payments & Commerce
+FIDA,FIDA-USD,2/1/2022 18:00,7/30/2025 1:00,1275,Established,105448397,190,Small Cap,"Solana, DEX/NFT",Solana,"['Solana', 'DEX/NFT']",['Solana'],,"['DeFi', 'NFTs & Digital Collectibles']","DeFi, NFTs & Digital Collectibles"
+LQTY,LQTY-USD,1/13/2022 18:00,7/30/2025 2:00,1294,Established,102828776,191,Small Cap,"DeFi, Lending",Ethereum,"['DeFi', 'Lending']",['Ethereum'],,['DeFi'],DeFi
+RED,RED-USD,3/12/2025 16:00,7/30/2025 3:00,140,New,102495637,192,Small Cap,"Identity, Social",Ethereum,"['Identity', 'Social']",['Ethereum'],,['Privacy & Security'],Privacy & Security
+POWR,POWR-USD,11/16/2021 17:00,7/30/2025 2:00,1352,Established,98170477,193,Small Cap,"Energy, IoT",Ethereum,"['Energy', 'IoT']",['Ethereum'],,['Other / Specialized'],Other / Specialized
+VVV,VVV-USD,1/28/2025 0:00,7/30/2025 3:00,184,New,97565532,194,Small Cap,Unknown,Unknown,['Unknown'],['Unknown'],,['Other / Specialized'],Other / Specialized
+HOME,HOME-USD,6/10/2025 19:00,7/30/2025 2:00,50,New,96724749,195,Small Cap,"Stablecoin, Real?World Asset",Independent,"['Stablecoin', 'Real?World Asset']",['Independent'],,['Stablecoins'],Stablecoins
+DIA,DIA-USD,1/25/2022 18:00,7/30/2025 1:00,1282,Established,96170780,196,Small Cap,"Oracle, Data",Ethereum,"['Oracle', 'Data']",['Ethereum'],,['Infrastructure & Data'],Infrastructure & Data
+COOKIE,COOKIE-USD,3/11/2025 16:00,7/30/2025 1:00,141,New,94404533,197,Small Cap,Meme/Community,Unknown,['Meme/Community'],['Unknown'],,['Meme & Community Tokens'],Meme & Community Tokens
+HONEY,HONEY-USD,1/17/2024 17:00,7/30/2025 2:00,560,New,92379665,198,Small Cap,"DeFi, DEX",Gnosis ,"['DeFi', 'DEX']",['Gnosis'],,['DeFi'],DeFi
+API3,API3-USD,12/9/2021 17:00,7/30/2025 0:00,1329,Established,92046093,199,Small Cap,"Oracle, API",Ethereum,"['Oracle', 'API']",['Ethereum'],,['Infrastructure & Data'],Infrastructure & Data
+SGB,SGB-USD,2/22/2022 19:00,8/1/2025 20:00,1257,Established,92042401,200,Small Cap,Canary Network,Independent,['Canary Network'],['Independent'],,['Other / Specialized'],Other / Specialized
+PRO,PRO-USD,1/13/2022 18:00,7/30/2025 3:00,1294,Established,91000000,201,Small Cap,"Real Estate, NFTs",Ethereum,"['Real Estate', 'NFTs']",['Ethereum'],,['NFTs & Digital Collectibles'],NFTs & Digital Collectibles
+DEGEN,DEGEN-USD,10/15/2024 16:00,7/30/2025 1:00,288,New,89572021,202,Small Cap,"Index, NFT",Ethereum,"['Index', 'NFT']",['Ethereum'],,"['NFTs & Digital Collectibles', 'Infrastructure & Data']","NFTs & Digital Collectibles, Infrastructure & Data"
+SPELL,SPELL-USD,12/7/2021 17:00,7/30/2025 3:00,1331,Established,88893957,203,Small Cap,"DeFi, Lending",Ethereum,"['DeFi', 'Lending']",['Ethereum'],,['DeFi'],DeFi
+B3,B3-USD,2/10/2025 23:00,7/30/2025 0:00,170,New,88737732,204,Small Cap,"Gaming, Layer?3",Base,"['Gaming', 'Layer?3']",['Base'],,['Gaming & Metaverse'],Gaming & Metaverse
+TREE,TREE-USD,7/29/2025 20:00,7/30/2025 3:00,1,New,85408061,205,Small Cap,"Social Impact, Reforestation",Unknown,"['Social Impact', 'Reforestation']",['Unknown'],,['Other / Specialized'],Other / Specialized
+AUDIO,AUDIO-USD,1/26/2023 17:00,7/30/2025 0:00,916,Established,85208950,206,Small Cap,"Music, Streaming",Ethereum,"['Music', 'Streaming']",['Ethereum'],,['Other / Specialized'],Other / Specialized
+PUNDIX,PUNDIX-USD,9/20/2022 16:00,7/30/2025 2:00,1044,Established,85067767,207,Small Cap,"Payments, POS",Ethereum,"['Payments', 'POS']",['Ethereum'],,['Payments & Commerce'],Payments & Commerce
+ASM,ASM-USD,10/21/2021 16:00,7/30/2025 0:00,1378,Established,83668675,208,Small Cap,"Loyalty, Data",Ethereum,"['Loyalty', 'Data']",['Ethereum'],,"['Infrastructure & Data', 'Payments & Commerce']","Infrastructure & Data, Payments & Commerce"
+CVC,CVC-USD,11/3/2021 19:00,7/30/2025 1:00,1365,Established,83413305,209,Small Cap,Identity,Ethereum,['Identity'],['Ethereum'],,['Privacy & Security'],Privacy & Security
+NEWT,NEWT-USD,6/24/2025 19:00,7/30/2025 2:00,36,New,81173693,210,Small Cap,Unknown,Unknown,['Unknown'],['Unknown'],,['Other / Specialized'],Other / Specialized
+RLC,RLC-USD,5/6/2021 16:00,7/30/2025 3:00,1546,Established,81057958,211,Small Cap,"Cloud, Computing",Ethereum,"['Cloud', 'Computing']",['Ethereum'],,['AI & Big Data'],AI & Big Data
+LSK,LSK-USD,11/20/2019 9:00,8/1/2025 20:00,2082,Legacy,80079998,212,Small Cap,"Platform, SDK",Independent,"['Platform', 'SDK']",['Independent'],,['Infrastructure & Data'],Infrastructure & Data
+BAL,BAL-USD,10/6/2020 16:00,7/30/2025 0:00,1758,Established,79458389,213,Small Cap,"DeFi, DEX",Ethereum,"['DeFi', 'DEX']",['Ethereum'],,['DeFi'],DeFi
+KNC,KNC-USD,2/25/2020 17:00,7/30/2025 2:00,1982,Legacy,76541845,214,Small Cap,"DeFi, Liquidity",Ethereum,"['DeFi', 'Liquidity']",['Ethereum'],,['DeFi'],DeFi
+AUCTION,AUCTION-USD,10/19/2021 16:00,7/30/2025 0:00,1380,Established,71148446,215,Small Cap,"Auctions, Launchpad",Ethereum,"['Auctions', 'Launchpad']",['Ethereum'],,['Other / Specialized'],Other / Specialized
+PAX,PAX-USD,7/27/2021 18:00,7/29/2025 21:00,1464,Established,69908728,216,Small Cap,Stablecoin,Ethereum,['Stablecoin'],['Ethereum'],,['Stablecoins'],Stablecoins
+LA,LA-USD,6/4/2025 19:00,7/30/2025 2:00,56,New,69443525,217,Small Cap,Exchange,Ethereum,['Exchange'],['Ethereum'],,['Other / Specialized'],Other / Specialized
+POND,POND-USD,6/16/2022 16:00,7/30/2025 1:00,1140,Established,69359267,218,Small Cap,"Networking, Web3",Ethereum,"['Networking', 'Web3']",['Ethereum'],,['Other / Specialized'],Other / Specialized
+NMR,NMR-USD,8/18/2020 16:00,7/30/2025 2:00,1807,Established,68305613,219,Small Cap,"AI, Prediction",Ethereum,"['AI', 'Prediction']",['Ethereum'],,['AI & Big Data'],AI & Big Data
+AGLD,AGLD-USD,9/21/2021 16:00,7/30/2025 0:00,1408,Established,65668816,220,Small Cap,"Gaming, NFT",Ethereum,"['Gaming', 'NFT']",['Ethereum'],,"['NFTs & Digital Collectibles', 'Gaming & Metaverse']","NFTs & Digital Collectibles, Gaming & Metaverse"
+CTSI,CTSI-USD,5/6/2021 16:00,7/30/2025 1:00,1546,Established,64790904,221,Small Cap,"Layer-2, VM",Ethereum,"['Layer-2', 'VM']",['Ethereum'],,['Layer 2 / Scaling'],Layer 2 / Scaling
+WCFG,WCFG-USD,10/7/2021 19:00,7/30/2025 3:00,1392,Established,64610775,222,Small Cap,Real-World Assets,"Multi Chain, Ethereum, Polkadot",['Real-World Assets'],"['Multi Chain', 'Ethereum', 'Polkadot']",,['Other / Specialized'],Other / Specialized
+GFI,GFI-USD,1/11/2022 20:00,7/30/2025 1:00,1296,Established,62619471,223,Small Cap,"DeFi, Lending",Ethereum,"['DeFi', 'Lending']",['Ethereum'],,['DeFi'],DeFi
+GODS,GODS-USD,12/9/2021 17:00,7/30/2025 1:00,1329,Established,59951757,224,Small Cap,"Gaming, NFT",Ethereum ,"['Gaming', 'NFT']",['Ethereum'],,"['NFTs & Digital Collectibles', 'Gaming & Metaverse']","NFTs & Digital Collectibles, Gaming & Metaverse"
+OCEAN,OCEAN-USD,9/8/2022 16:00,7/30/2025 2:00,1056,Established,59729549,225,Small Cap,"Data Sharing, AI",Ethereum,"['Data Sharing', 'AI']",['Ethereum'],,"['Infrastructure & Data', 'AI & Big Data']","Infrastructure & Data, AI & Big Data"
+AERGO,AERGO-USD,3/8/2022 22:00,7/30/2025 0:00,1240,Established,58281351,226,Small Cap,"Enterprise, Hybrid Blockchain",Independent,"['Enterprise', 'Hybrid Blockchain']",['Independent'],,['Other / Specialized'],Other / Specialized
+BTRST,BTRST-USD,9/15/2021 18:00,7/29/2025 22:00,1414,Established,57341943,227,Small Cap,"Talent, Marketplace",Ethereum,"['Talent', 'Marketplace']",['Ethereum'],,['Other / Specialized'],Other / Specialized
+QI,QI-USD,11/23/2022 17:00,7/30/2025 3:00,980,Established,53454473,228,Small Cap,"DeFi, Lending",Avalanche,"['DeFi', 'Lending']",['Avalanche'],,['DeFi'],DeFi
+G,G-USD,8/13/2024 16:00,7/30/2025 1:00,351,New,53351240,229,Small Cap,"Layer?1, Ecosystem",Gravity,"['Layer?1', 'Ecosystem']",['Gravity'],,['Other / Specialized'],Other / Specialized
+C98,C98-USD,6/7/2022 16:00,7/30/2025 0:00,1149,Established,52464450,230,Small Cap,"DeFi, Wallet","Multi Chain, Ethereum, BNB Chain, Solana","['DeFi', 'Wallet']","['Multi Chain', 'Ethereum', 'BNB Chain', 'Solana']",,['DeFi'],DeFi
+ACS,ACS-USD,2/15/2023 17:00,7/30/2025 0:00,896,Established,50268153,231,Small Cap,"Content, Subscription",Solana,"['Content', 'Subscription']",['Solana'],,['Payments & Commerce'],Payments & Commerce
+HIGH,HIGH-USD,3/8/2022 22:00,7/30/2025 2:00,1240,Established,50000000,232,Small Cap,"Metaverse, Commerce",Ethereum,"['Metaverse', 'Commerce']",['Ethereum'],,"['Gaming & Metaverse', 'Payments & Commerce']","Gaming & Metaverse, Payments & Commerce"
+AURORA,AURORA-USD,9/6/2022 16:00,7/30/2025 0:00,1058,Established,48332981,233,Small Cap,"EVM, NEAR",NEAR Protocol,"['EVM', 'NEAR']",['NEAR Protocol'],,['Other / Specialized'],Other / Specialized
+SD,SD-USD,7/30/2024 17:00,7/30/2025 3:00,365,New,47662160,234,Small Cap,"Staking, DeFi",Multi-chain ,"['Staking', 'DeFi']",['Multi-chain'],,['DeFi'],DeFi
+MAGIC,MAGIC-USD,12/8/2022 17:00,7/30/2025 2:00,965,Established,47534477,235,Small Cap,"Gaming, NFT",Arbitrum,"['Gaming', 'NFT']",['Arbitrum'],,"['NFTs & Digital Collectibles', 'Gaming & Metaverse']","NFTs & Digital Collectibles, Gaming & Metaverse"
+HFT,HFT-USD,11/7/2022 14:00,7/30/2025 2:00,996,Established,45383939,236,Small Cap,"DeFi, DEX",Ethereum,"['DeFi', 'DEX']",['Ethereum'],,['DeFi'],DeFi
+BOBA,BOBA-USD,6/30/2022 16:00,7/29/2025 23:00,1126,Established,45192375,237,Small Cap,"Layer-2, Scaling",Ethereum,"['Layer-2', 'Scaling']",['Ethereum'],,['Layer 2 / Scaling'],Layer 2 / Scaling
+MNDE,MNDE-USD,11/3/2022 16:00,7/30/2025 2:00,1000,Established,44956882,238,Small Cap,"Liquid Staking, Solana",Solana,"['Liquid Staking', 'Solana']",['Solana'],,['DeFi'],DeFi
+TNSR,TNSR-USD,4/8/2024 19:00,7/30/2025 3:00,478,New,44730860,239,Small Cap,"NFT, Marketplace",Solana,"['NFT', 'Marketplace']",['Solana'],,['NFTs & Digital Collectibles'],NFTs & Digital Collectibles
+OGN,OGN-USD,4/9/2021 16:00,7/30/2025 2:00,1573,Established,43989213,240,Small Cap,"E-Commerce, NFT",Ethereum,"['E-Commerce', 'NFT']",['Ethereum'],,"['NFTs & Digital Collectibles', 'Payments & Commerce']","NFTs & Digital Collectibles, Payments & Commerce"
+CELR,CELR-USD,8/16/2022 16:00,7/30/2025 0:00,1079,Established,43883811,241,Small Cap,"Layer-2, Bridge",Ethereum,"['Layer-2', 'Bridge']",['Ethereum'],,['Layer 2 / Scaling'],Layer 2 / Scaling
+CLANKER,CLANKER-USD,4/23/2025 16:00,7/30/2025 1:00,98,New,43700791,242,Small Cap,"Meme, Token Deployment",Base,"['Meme', 'Token Deployment']",['Base'],,['Meme & Community Tokens'],Meme & Community Tokens
+RARE,RARE-USD,8/2/2022 16:00,7/30/2025 3:00,1093,Established,43522557,243,Small Cap,"NFT, Marketplace",Ethereum,"['NFT', 'Marketplace']",['Ethereum'],,['NFTs & Digital Collectibles'],NFTs & Digital Collectibles
+STORJ,STORJ-USD,3/25/2021 16:00,7/30/2025 3:00,1588,Established,43492250,244,Small Cap,"Storage, Cloud",Ethereum,"['Storage', 'Cloud']",['Ethereum'],,['Other / Specialized'],Other / Specialized
+KERNEL,KERNEL-USD,4/14/2025 19:00,7/30/2025 2:00,107,New,42801258,245,Small Cap,"DeFi, Restaking",Ethereum,"['DeFi', 'Restaking']",['Ethereum'],,['DeFi'],DeFi
+NCT,NCT-USD,1/13/2022 18:00,7/30/2025 2:00,1294,Established,42623019,246,Small Cap,"Cybersecurity, Data",Ethereum,"['Cybersecurity', 'Data']",['Ethereum'],,"['Privacy & Security', 'Infrastructure & Data']","Privacy & Security, Infrastructure & Data"
+TRU,TRU-USD,8/12/2021 19:00,7/30/2025 3:00,1448,Established,42271503,247,Small Cap,"DeFi, Lending",Ethereum,"['DeFi', 'Lending']",['Ethereum'],,['DeFi'],DeFi
+KARRAT,KARRAT-USD,4/22/2024 20:00,7/30/2025 2:00,464,New,38345157,248,Small Cap,"Gaming, Infrastructure",Independent,"['Gaming', 'Infrastructure']",['Independent'],,"['Gaming & Metaverse', 'Infrastructure & Data']","Gaming & Metaverse, Infrastructure & Data"
+HOPR,HOPR-USD,6/22/2022 16:00,7/30/2025 2:00,1134,Established,37663146,249,Small Cap,"Privacy, Networking",Ethereum,"['Privacy', 'Networking']",['Ethereum'],,['Privacy & Security'],Privacy & Security
+ALICE,ALICE-USD,2/24/2022 17:00,7/29/2025 23:00,1252,Established,37517776,250,Small Cap,"Gaming, NFT","Multiple Chains, Ethereum, Chromia","['Gaming', 'NFT']","['Multiple Chains', 'Ethereum', 'Chromia']",,"['NFTs & Digital Collectibles', 'Gaming & Metaverse']","NFTs & Digital Collectibles, Gaming & Metaverse"
+REZ,REZ-USD,3/6/2025 17:00,7/30/2025 3:00,146,New,37422266,251,Small Cap,"DeFi, Restaking",Ethereum,"['DeFi', 'Restaking']",['Ethereum'],,['DeFi'],DeFi
+DOGINME,DOGINME-USD,4/1/2025 17:00,7/30/2025 1:00,120,New,37110120,252,Small Cap,Meme,Base,['Meme'],['Base'],,['Meme & Community Tokens'],Meme & Community Tokens
+A8,A8-USD,7/17/2024 17:00,7/30/2025 0:00,378,New,37076732,253,Small Cap,"Gaming, GameFi",Independent ,"['Gaming', 'GameFi']",['Independent'],,['Gaming & Metaverse'],Gaming & Metaverse
+KEYCAT,KEYCAT-USD,4/1/2025 17:00,7/30/2025 2:00,120,New,37029733,254,Small Cap,"Meme, NFTs",Base,"['Meme', 'NFTs']",['Base'],,"['NFTs & Digital Collectibles', 'Meme & Community Tokens']","NFTs & Digital Collectibles, Meme & Community Tokens"
+PRCL,PRCL-USD,12/17/2024 17:00,7/30/2025 3:00,225,New,36716337,255,Small Cap,"Real-Estate, Synthetic",Solana,"['Real-Estate', 'Synthetic']",['Solana'],,['DeFi'],DeFi
+OXT,OXT-USD,12/16/2019 15:00,7/30/2025 2:00,2053,Legacy,35930111,256,Small Cap,"VPN, Privacy",Ethereum,"['VPN', 'Privacy']",['Ethereum'],,['Privacy & Security'],Privacy & Security
+ALEPH,ALEPH-USD,6/22/2022 16:00,7/30/2025 0:00,1134,Established,35077407,257,Small Cap,"Cloud, Storage","Multiple Chains, Solana, Ethereum","['Cloud', 'Storage']","['Multiple Chains', 'Solana', 'Ethereum']",,['Other / Specialized'],Other / Specialized
+RAD,RAD-USD,9/1/2021 16:00,7/30/2025 1:00,1428,Established,33184241,258,Small Cap,"Collaboration, Git",Ethereum,"['Collaboration', 'Git']",['Ethereum'],,['Other / Specialized'],Other / Specialized
+DEXT,DEXT-USD,6/23/2022 19:00,7/29/2025 23:00,1133,Established,32813185,259,Small Cap,"Analytics, Trading",Ethereum,"['Analytics', 'Trading']",['Ethereum'],,['Infrastructure & Data'],Infrastructure & Data
+EDGE,EDGE-USD,4/2/2025 20:00,7/30/2025 1:00,119,New,31791712,260,Small Cap,"Web Services, CDN",Ethereum,"['Web Services', 'CDN']",['Ethereum'],,['Infrastructure & Data'],Infrastructure & Data
+ELA,ELA-USD,6/22/2022 17:00,7/30/2025 1:00,1134,Established,31703686,261,Small Cap,"Identity, SmartWeb",Independent,"['Identity', 'SmartWeb']",['Independent'],,['Privacy & Security'],Privacy & Security
+FORTH,FORTH-USD,4/21/2021 18:00,7/30/2025 1:00,1561,Established,31402551,262,Small Cap,"Stablecoin, Governance",Ethereum,"['Stablecoin', 'Governance']",['Ethereum'],,['Stablecoins'],Stablecoins
+PNG,PNG-USD,10/6/2022 16:00,7/30/2025 2:00,1028,Established,30936654,263,Small Cap,"DEX, Avalanche",Avalanche,"['DEX', 'Avalanche']",['Avalanche'],,['DeFi'],DeFi
+INV,INV-USD,1/13/2022 18:00,7/30/2025 0:00,1294,Established,30850659,264,Small Cap,"DeFi, Lending",Ethereum,"['DeFi', 'Lending']",['Ethereum'],,['DeFi'],DeFi
+PIRATE,PIRATE-USD,6/13/2024 19:00,7/30/2025 3:00,412,New,29892257,265,Small Cap,"Privacy, Currency",Independent,"['Privacy', 'Currency']",['Independent'],,['Privacy & Security'],Privacy & Security
+L3,L3-USD,3/27/2025 16:00,7/30/2025 2:00,125,New,29464948,266,Small Cap,Unknown,Unknown,['Unknown'],['Unknown'],,['Other / Specialized'],Other / Specialized
+GTC,GTC-USD,6/10/2021 16:00,7/30/2025 1:00,1511,Established,28267303,267,Small Cap,"Grants, Public Goods",Ethereum,"['Grants', 'Public Goods']",['Ethereum'],,['Other / Specialized'],Other / Specialized
+PROMPT,PROMPT-USD,4/10/2025 19:00,7/30/2025 3:00,111,New,28226069,268,Small Cap,"AI, Infrastructure",Ethereum,"['AI', 'Infrastructure']",['Ethereum'],,"['Infrastructure & Data', 'AI & Big Data']","Infrastructure & Data, AI & Big Data"
+CLV,CLV-USD,7/15/2021 22:00,7/30/2025 0:00,1476,Established,28099231,269,Small Cap,"Parachain, DeFi",Polkadot,"['Parachain', 'DeFi']",['Polkadot'],,"['Layer 2 / Scaling', 'DeFi']","Layer 2 / Scaling, DeFi"
+SPA,SPA-USD,5/3/2023 16:00,7/30/2025 3:00,819,Established,27975464,270,Small Cap,"Stablecoin, DeFi",Ethereum,"['Stablecoin', 'DeFi']",['Ethereum'],,"['DeFi', 'Stablecoins']","DeFi, Stablecoins"
+GST,GST-USD,4/28/2022 16:00,7/30/2025 2:00,1189,Established,25509160,271,Small Cap,Move-to-Earn,Solana,['Move-to-Earn'],['Solana'],,['Gaming & Metaverse'],Gaming & Metaverse
+SWELL,SWELL-USD,11/7/2024 20:00,7/30/2025 3:00,265,New,24808169,272,Small Cap,Liquid Staking,Ethereum,['Liquid Staking'],['Ethereum'],,['DeFi'],DeFi
+GHST,GHST-USD,12/6/2022 17:00,7/30/2025 1:00,967,Established,24631461,273,Small Cap,"Gaming, NFT",Polygon,"['Gaming', 'NFT']",['Polygon'],,"['NFTs & Digital Collectibles', 'Gaming & Metaverse']","NFTs & Digital Collectibles, Gaming & Metaverse"
+BADGER,BADGER-USD,10/14/2021 16:00,7/30/2025 0:00,1385,Established,24507947,274,Small Cap,"DeFi, Bitcoin Bridging",Ethereum,"['DeFi', 'Bitcoin Bridging']",['Ethereum'],,['DeFi'],DeFi
+PYR,PYR-USD,11/29/2022 17:00,7/30/2025 2:00,974,Established,24325434,275,Small Cap,"Gaming, Metaverse",Polygon,"['Gaming', 'Metaverse']",['Polygon'],,['Gaming & Metaverse'],Gaming & Metaverse
+MLN,MLN-USD,6/10/2021 16:00,7/30/2025 2:00,1511,Established,23647069,276,Small Cap,"DeFi, Asset Management",Ethereum,"['DeFi', 'Asset Management']",['Ethereum'],,['DeFi'],DeFi
+DIMO,DIMO-USD,4/18/2023 16:00,7/30/2025 0:00,834,Established,23592863,277,Small Cap,"Mobility, Data",Ethereum,"['Mobility', 'Data']",['Ethereum'],,['Infrastructure & Data'],Infrastructure & Data
+NKN,NKN-USD,4/9/2021 16:00,7/30/2025 2:00,1573,Established,23242216,278,Small Cap,"Networking, P2P",Independent,"['Networking', 'P2P']",['Independent'],,['Other / Specialized'],Other / Specialized
+ARPA,ARPA-USD,10/19/2021 16:00,7/30/2025 0:00,1380,Established,22729921,279,Small Cap,"Privacy, MPC",Ethereum,"['Privacy', 'MPC']",['Ethereum'],,['Privacy & Security'],Privacy & Security
+ALCX,ALCX-USD,11/16/2021 17:00,7/30/2025 0:00,1352,Established,22704700,280,Small Cap,"DeFi, Self-Repaying Loans",Ethereum,"['DeFi', 'Self-Repaying Loans']",['Ethereum'],,['DeFi'],DeFi
+DNT,DNT-USD,11/3/2021 19:00,7/30/2025 0:00,1365,Established,22220921,281,Small Cap,"Social, Marketplace",Ethereum,"['Social', 'Marketplace']",['Ethereum'],,['Other / Specialized'],Other / Specialized
+NEON,NEON-USD,4/30/2024 16:00,7/30/2025 2:00,456,New,21804761,282,Small Cap,"EVM, Solana",Solana,"['EVM', 'Solana']",['Solana'],,['Other / Specialized'],Other / Specialized
+PERP,PERP-USD,10/19/2021 16:00,7/30/2025 2:00,1380,Established,20317756,283,Small Cap,"DeFi, Derivatives",Ethereum,"['DeFi', 'Derivatives']",['Ethereum'],,['DeFi'],DeFi
+POLS,POLS-USD,12/7/2021 17:00,7/30/2025 2:00,1331,Established,19779997,284,Small Cap,"Launchpad, DeFi",Ethereum,"['Launchpad', 'DeFi']",['Ethereum'],,['DeFi'],DeFi
+ERN,ERN-USD,3/8/2022 22:00,7/30/2025 1:00,1240,Established,19706177,285,Small Cap,"NFT, Collectibles",Ethereum,"['NFT', 'Collectibles']",['Ethereum'],,['NFTs & Digital Collectibles'],NFTs & Digital Collectibles
+FARM,FARM-USD,7/29/2021 18:00,7/30/2025 1:00,1462,Established,19637443,286,Small Cap,"DeFi, Yield Aggregator",Ethereum,"['DeFi', 'Yield Aggregator']",['Ethereum'],,['DeFi'],DeFi
+IDEX,IDEX-USD,12/7/2021 17:00,7/30/2025 2:00,1331,Established,19482404,287,Small Cap,"DEX, Hybrid",Ethereum,"['DEX', 'Hybrid']",['Ethereum'],,['DeFi'],DeFi
+MATH,MATH-USD,6/22/2022 16:00,7/30/2025 2:00,1134,Established,19454589,288,Small Cap,"Wallet, DeFi",Ethereum,"['Wallet', 'DeFi']",['Ethereum'],,['DeFi'],DeFi
+FIS,FIS-USD,6/16/2022 16:00,7/30/2025 1:00,1140,Established,18627530,289,Small Cap,Liquid Staking,Substrate,['Liquid Staking'],['Substrate'],,['DeFi'],DeFi
+VARA,VARA-USD,9/20/2023 18:00,7/30/2025 3:00,679,New,18496473,290,Small Cap,"Parachain, DEX",Polkadot,"['Parachain', 'DEX']",['Polkadot'],,"['Layer 2 / Scaling', 'DeFi']","Layer 2 / Scaling, DeFi"
+FOX,FOX-USD,12/7/2021 17:00,7/30/2025 1:00,1331,Established,18303315,291,Small Cap,"Exchange, DeFi",Ethereum,"['Exchange', 'DeFi']",['Ethereum'],,['DeFi'],DeFi
+RARI,RARI-USD,10/14/2021 16:00,7/30/2025 3:00,1385,Established,18173671,292,Small Cap,"NFT, Marketplace",Ethereum,"['NFT', 'Marketplace']",['Ethereum'],,['NFTs & Digital Collectibles'],NFTs & Digital Collectibles
+BLZ,BLZ-USD,12/9/2021 17:00,7/30/2025 0:00,1329,Established,17409687,293,Small Cap,"Data, Oracle",Cosmos,"['Data', 'Oracle']",['Cosmos'],,['Infrastructure & Data'],Infrastructure & Data
+SHDW,SHDW-USD,4/10/2024 16:00,7/30/2025 3:00,476,New,17261772,294,Small Cap,"Storage, Solana",Solana,"['Storage', 'Solana']",['Solana'],,['Other / Specialized'],Other / Specialized
+CTX,CTX-USD,1/25/2022 18:00,7/30/2025 1:00,1282,Established,17112886,295,Small Cap,"DeFi, Index",Ethereum,"['DeFi', 'Index']",['Ethereum'],,"['DeFi', 'Infrastructure & Data']","DeFi, Infrastructure & Data"
+MDT,MDT-USD,12/9/2021 17:00,7/30/2025 2:00,1329,Established,17090206,296,Small Cap,"Data, Advertising",Ethereum,"['Data', 'Advertising']",['Ethereum'],,['Infrastructure & Data'],Infrastructure & Data
+AVT,AVT-USD,2/3/2022 19:00,7/30/2025 0:00,1273,Established,16520569,297,Small Cap,"Enterprise, Ticketing","Ethereum, Polkadot","['Enterprise', 'Ticketing']","['Ethereum', 'Polkadot']",,['Other / Specialized'],Other / Specialized
+SUKU,SUKU-USD,11/2/2021 16:00,7/30/2025 2:00,1366,Established,16416449,298,Small Cap,"Supply Chain, NFT",Ethereum,"['Supply Chain', 'NFT']",['Ethereum'],,['NFTs & Digital Collectibles'],NFTs & Digital Collectibles
+ZETA,ZETA-USD,2/1/2024 1:00,7/30/2025 4:00,546,New,15834617,299,Small Cap,"Derivatives, Solana",Solana,"['Derivatives', 'Solana']",['Solana'],,['DeFi'],DeFi
+SEAM,SEAM-USD,12/11/2023 18:00,7/30/2025 2:00,597,New,15830917,300,Small Cap,"DeFi, Lending",Ethereum,"['DeFi', 'Lending']",['Ethereum'],,['DeFi'],DeFi
+KRL,KRL-USD,11/2/2021 16:00,7/30/2025 0:00,1366,Established,15352337,301,Small Cap,"Trading, Tools",Ethereum,"['Trading', 'Tools']",['Ethereum'],,['Infrastructure & Data'],Infrastructure & Data
+SXT,SXT-USD,5/8/2025 18:00,7/30/2025 3:00,83,New,14855591,302,Small Cap,"Payments, Identity",Ethereum,"['Payments', 'Identity']",['Ethereum'],,"['Privacy & Security', 'Payments & Commerce']","Privacy & Security, Payments & Commerce"
+VOXEL,VOXEL-USD,2/9/2023 17:00,7/30/2025 3:00,902,Established,13961113,303,Small Cap,"Gaming, NFT",Polygon,"['Gaming', 'NFT']",['Polygon'],,"['NFTs & Digital Collectibles', 'Gaming & Metaverse']","NFTs & Digital Collectibles, Gaming & Metaverse"
+SHPING,SHPING-USD,1/20/2022 18:00,7/30/2025 3:00,1287,Established,13700000,304,Small Cap,"Rewards, Retail",Ethereum,"['Rewards', 'Retail']",['Ethereum'],,['Payments & Commerce'],Payments & Commerce
+INDEX,INDEX-USD,6/9/2022 16:00,7/30/2025 2:00,1147,Established,9835894,305,Small Cap,"DeFi, Index Funds",Ethereum,"['DeFi', 'Index Funds']",['Ethereum'],,"['DeFi', 'Infrastructure & Data']","DeFi, Infrastructure & Data"
+FX,FX-USD,10/7/2021 19:00,7/30/2025 1:00,1392,Established,8182620,306,Small Cap,"Blockchain, Telecom",Independent,"['Blockchain', 'Telecom']",['Independent'],,['Layer 1 Blockchains'],Layer 1 Blockchains
+LRDS,LRDS-USD,7/24/2024 17:00,7/30/2025 2:00,371,New,8111320,307,Small Cap,"Gaming, Strategy",Ethereum,"['Gaming', 'Strategy']",['Ethereum'],,['Gaming & Metaverse'],Gaming & Metaverse
+TIME,TIME-USD,6/23/2022 18:00,7/30/2025 3:00,1133,Established,7403157,308,Small Cap,"Work, Payroll",Ethereum,"['Work', 'Payroll']",['Ethereum'],,['Payments & Commerce'],Payments & Commerce
+MUSE,MUSE-USD,6/23/2022 16:00,7/30/2025 1:00,1133,Established,7081189,309,Small Cap,"NFT, DeFi",Ethereum,"['NFT', 'DeFi']",['Ethereum'],,"['DeFi', 'NFTs & Digital Collectibles']","DeFi, NFTs & Digital Collectibles"
+PLU,PLU-USD,1/25/2022 18:00,7/30/2025 2:00,1282,Established,6428753,310,Small Cap,"Payments, Rewards",Ethereum,"['Payments', 'Rewards']",['Ethereum'],,['Payments & Commerce'],Payments & Commerce
+BNT,BNT-USD,12/15/2020 17:00,7/30/2025 0:00,1688,Established,6080920,311,Small Cap,"DeFi, DEX",Ethereum,"['DeFi', 'DEX']",['Ethereum'],,['DeFi'],DeFi
