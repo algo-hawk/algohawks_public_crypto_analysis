@@ -28,4 +28,4 @@ All work is conducted strictly for **educational and research purposes**.
 I’m open to feedback, methodological discussions, and non-investment collaborations.  
 If you’d like to connect or discuss ideas, you can reach me here:  
 - [**LinkedIn — Brandon Sharp**](https://www.linkedin.com/in/brandon-sharp-b97793194)  
-- **Discord:** Algohawk
+- **Discord:** algohawk
