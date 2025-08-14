@@ -34,7 +34,7 @@ An open, research-first exploration of cryptocurrency market structure, relation
 We welcome contributions from data engineers to crypto enthusiasts. Here’s how you can help:
 
 ### 🔹 **Data Contributions**
-- **Add new cryptocurrencies** — must be present in both:
+- **Add new cryptocurrencies** — must be present in both (and preferably from kraken/coinbase):
   - `asset_metadata_master.csv`
   - `research_ohlcv_1d_compact.parquet`
 - **Remove unlisted/delisted assets** — remove from both files.
