@@ -65,5 +65,5 @@ We welcome contributions from data engineers to crypto enthusiasts. Here’s how
 
 ## 🔗 Connect
 - [**LinkedIn — Brandon Sharp**](https://www.linkedin.com/in/brandon-sharp-b97793194)
-- Discord: **Algohawk**
+- Discord: **algohawk**
 
